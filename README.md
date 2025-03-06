@@ -48,6 +48,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 
 ## Variant Effect Prediction tools and databases
 
+- [AlphaMissense](https://doi.org/10.5281/zenodo.8208687) - AI model developed by Google DeepMind that predicts the pathogenicity of every possible missense mutation in the human proteome (Cheng et al., 2023). The model builds on the protein structure prediction tool AlphaFold2 (Jumper et al., 2021) and uses predicted structural context and fine-tuning on weak labels from population frequency data to provide variant effect predictions at scale. R/Bioconductor interface: [AlphaMissenseR](https://bioconductor.org/packages/AlphaMissenseR) [Software tool, Download]
 - [fannsdb](http://bbglab.irbbarcelona.org/fannsdb/) - Combines ConDEL and TransFIC annotations. FannsDB is a database for Functional ANnotations for Non Synonymous SNVs which contains precalculated scores for several predictors. [Web app, Download]
 - [dbNSFP](https://sites.google.com/site/jpopgen/dbNSFP) - [Download]
 - [myvariant.info](http://myvariant.info/) - [Web app, API]
