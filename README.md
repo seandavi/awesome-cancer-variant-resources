@@ -45,6 +45,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 ## Annotation tools and software
 
 - [PCGR](https://github.com/sigven/pcgr) - The Personal Cancer Genome Reporter (PCGR) is a stand-alone software package for functional annotation and translation of individual cancer genomes for precision oncology. It interprets both somatic SNVs/InDels and copy number aberrations. The software extends basic gene and variant annotations from the Ensembl’s Variant Effect Predictor (VEP) with oncology-relevant, up-to-date annotations retrieved flexibly through vcfanno, and produces interactive HTML reports intended for clinical interpretation. - [Software tool]
+- [UNMIRI NGS interpretation API & schema](https://unmiri.com) - Cross-vendor NGS interpretation: a free public sandbox API plus an Apache-2.0 open JSON Schema contract ([github](https://github.com/unmirihealth/unmiri-ngs-fhir-schema)) that normalizes parsed Foundation Medicine, Tempus, Caris, and Guardant reports into one structured, FHIR-Genomics-aligned shape (variants, biomarkers, companion-diagnostic flags, trial matches). - [API, Software tool]
 
 ## Variant Effect Prediction tools and databases
 
