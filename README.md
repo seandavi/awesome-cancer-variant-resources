@@ -36,6 +36,7 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [Exome Aggregation Consortium](http://exac.broadinstitute.org/) - [Web app, API, Download]
 - [1000 Genomes](http://www.1000genomes.org) - [Web app, API, Download]
 - [ClinVar](http://www.ncbi.nlm.nih.gov/clinvar/) - [Web app, Download]
+- [Pushbuild ClinVar reclassification feed](https://pushbuild.com/apis/clinvar-reclassifications.html) - Every month-to-month ClinVar classification change since 2025, filterable by gene and direction (e.g. VUS to likely pathogenic). Free to try. - [API]
 - [Exome Sequencing Project](http://evs.gs.washington.edu/EVS/) - [Web app, Download]
 - [Genome of the Netherlands](http://www.nlgenome.nl/)
 - [UK10K](http://www.uk10k.org/)
